@@ -14,11 +14,15 @@ Many young surfers—especially beginners and teenagers—enter the ocean withou
 
 **Camp Strategy:**
 
-1. **Safe Location:** Choose U.S. coastal areas with historically low shark activity.
-2. **Target Age Group:** Focus on teenagers 12–20 years old.
-3. **Structured Activities:** Supervised surfing lessons plus low-risk beginner activities.
-4. **Risk Awareness:** Integrate safety education on sharks, ocean behavior, and emergency response.
-5. **Seasonal Scheduling:** Hold lessons during historically safer months.
+**High-Risk Coastal Focus:** Prioritize U.S. coastal areas—such as Florida—where shark incidents among young surfers are historically higher, ensuring that interventions target the zones of greatest need.
+
+**Relevant Age Group (12–20):** Center the program on teenagers, the group identified as both highly active in surfing and often lacking knowledge of marine ecosystems and shark behavior.
+
+**Structured, Supervised Surf Activities:** Offer guided surfing lessons supported by trained instructors, integrating low-risk skill-building sessions for beginners to reduce unsafe independent entry into the water.
+
+**Shark & Ocean Safety Education:** Incorporate comprehensive training on shark behavior, ocean conditions, risk-reduction strategies, and emergency responses to address the knowledge gaps identified in the problem statement.
+
+Data-Informed Seasonal Scheduling:Operate the camp during high-risk periods—particularly summer months in Florida—to proactively intervene when teenagers are most likely to encounter sharks during surfing.
 
 **Expected Outcome:**
 
