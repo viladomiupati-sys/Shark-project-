@@ -68,7 +68,7 @@ Data-Informed Seasonal Scheduling:Operate the camp during high-risk periods—pa
 
 ## Day 4 — Insights & Recommendations
 
-- **Safe Locations:** Coastal U.S. states with historically low attacks → ideal camp sites.
+- **Safe Locations:** Coastal U.S. states with historically higher attacks → ideal camp sites.
 - **High-Risk Activities:** Surfing is higher risk → implement supervised sessions; other activities are lower risk.
 - **Target Age:** Teens 12–20 → focus safety campaigns and training here.
 - **Fatality:** Most attacks are non-fatal, but emergency preparedness is recommended.
